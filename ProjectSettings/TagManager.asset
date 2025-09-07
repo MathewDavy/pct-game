@@ -44,17 +44,20 @@ TagManager:
   - name: ground
     uniqueID: 319864069
     locked: 0
-  - name: grass
-    uniqueID: 2433464949
-    locked: 0
   - name: walkInFront
     uniqueID: 3271228613
+    locked: 0
+  - name: walkBehind
+    uniqueID: 1267943689
     locked: 0
   - name: collision
     uniqueID: 324954467
     locked: 0
-  - name: walkBehind
-    uniqueID: 1267943689
+  - name: outOfBounds1
+    uniqueID: 2709680233
+    locked: 0
+  - name: outOfBounds2
+    uniqueID: 1607854917
     locked: 0
   m_RenderingLayers:
   - Default
